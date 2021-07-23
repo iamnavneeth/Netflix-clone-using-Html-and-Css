@@ -1,0 +1,25 @@
+.white-heading{
+    color: #fff;
+    font-size: 40px;
+    padding: 0.55rem;
+}
+
+.h4-heading{
+    color: #fff;
+    padding: 0.55rem;
+    font-size: 20px;
+}
+
+.p-head{
+    color: #fff;
+    padding: 0.75rem;
+    font-weight: bold;
+}
+
+.pad{
+    text-decoration: none;
+    padding: 0.45rem;
+    border-radius: 6px;
+    background: rgb(231, 30, 30);
+    color: #fff;
+}
